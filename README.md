@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aishah-Aa
-- 👀 I’m interested in Data Analysis and Data Science, latest Technology Trends
-- 🌱 I’m currently learning full stack web development 
+- 👀 I’m interested in Data Analysis, Goverence and Data Science, IOT, Cyber security, latest Technology Trends
+- 🌱 I’m currently learning power BI, and data analysis  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alsaudaishah@gmail.com 
 - 😄 Pronouns: she/her
